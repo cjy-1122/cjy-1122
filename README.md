@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cjy-1122
-- 👀 I’m interested in c语言
-- 🌱 I’m currently learning c语言
-- 💞️ I’m looking to collaborate on 同学
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on partner
 - 📫 How to reach me 346075378@qq.com
 
 <!---
